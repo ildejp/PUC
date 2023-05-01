@@ -1,4 +1,4 @@
-Origem;Data;Hora;Temperatura °C;Umidade %RH;Maquina
+Origem;Data;Hora;Temperatura_C;Umidade_RH;Maquina
 13-03 A 09 hrs.xlsx;12/03/2023;00:00:00;11,7;59;RS1-002
 13-03 A 09 hrs.xlsx;12/03/2023;00:30:00;11,8;59,5;RS1-002
 13-03 A 09 hrs.xlsx;12/03/2023;01:00:00;11,9;58,5;RS1-002
